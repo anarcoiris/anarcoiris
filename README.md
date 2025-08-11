@@ -74,7 +74,7 @@ My name is Santiago, 34. While I'm in the AGILE, I have always a scope in delive
 * 🖥️ See my portfolio at [My public github portfolio](https://github.com/anarcoiris?tab=repositories)
 * ✉️ You can contact me at [durru7i@gmail.com](mailto:durru7i@gmail.com)
 * 🚀 I'm currently working on [Astrophotography](https://app.astrobin.com/i/o4484q)
-* 🧠 I'm learning Bachelor in Mathematics
+* 🧠 I'm Bachelor in Physics, learning Bachelor in Mathematics
 * 🤝 I'm collaborating w/ PHD at JPL
 * ⚡ I really like cryptography
 
