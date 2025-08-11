@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://singlecolorimage.com/get/1A111B/1200x200" width="100%" alt="#1A111B" />
+</p>
+
 # Hi! 👋🏻 My name is Santiago Javier Espino Heredero
 <p><img src ="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/><img src ="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src ="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/><img src ="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/><img src ="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/><img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
 
