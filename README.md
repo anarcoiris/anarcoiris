@@ -1,18 +1,12 @@
-<p align="center">
-  <img src="https://singlecolorimage.com/get/1A111B/1200x200" width="100%" alt="#1A111B" />
-</p>
+
 
 # Hi! 👋🏻 My name is Santiago Javier Espino Heredero
-<p align="center">
-  <img src="https://singlecolorimage.com/get/1A111B/1200x200" width="100%" alt="#1A111B" />
-</p>
+
 
 <p><img src ="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/><img src ="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src ="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/><img src ="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/><img src ="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/><img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
 
 ## Data Scientist
-<p align="center">
-  <img src="https://singlecolorimage.com/get/1A111B/1200x200" width="100%" alt="#1A111B" />
-</p>
+
 My name is Santiago, 34. While I'm in the AGILE, I have always a scope in delivering on-time and anticipating to deadlines. I have a science background but I've always been up to date with evergreen technologies and methodologies.
 
 * 🌍 I'm actually from Madrid
@@ -24,9 +18,7 @@ My name is Santiago, 34. While I'm in the AGILE, I have always a scope in delive
 * ⚡ I really like cryptography
 
 ### My Skills
-<p align="center">
-  <img src="https://singlecolorimage.com/get/1A111B/1200x200" width="100%" alt="#1A111B" />
-</p>
+
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/python-color.svg alt="" width="45px" height="45px"/><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/c-color.svg alt="" width="45px" height="45px"/><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/cplusplus-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/javascript-color.svg alt="" width="45px" height="45px"/><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/php-color.svg alt="" width="45px" height="45px"/><a href="https://mongodb.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mongodb-color.svg alt="" width="45px" height="45px"/><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/postgresql-color.svg alt="" width="45px" height="45px"/><a href="https://firebase.google.com/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD0WAk2cXLSF1OL1qTEnmokX4CjpWAl_UiJElEZW4hlMvl16h4AWltEaApgxEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/sqlite-color.svg alt="" width="45px" height="45px"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mysql-color.svg alt="" width="45px" height="45px"/><a href="https://www.adobe.com" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/photoshop-color.svg alt="" width="45px" height="45px"/><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/vscode-color.svg alt="" width="45px" height="45px"/></p>
   
 ### Find Me Also Here
