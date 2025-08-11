@@ -68,7 +68,7 @@
 
 ## Data Scientist
 
-My name is Santiago, 34. While I'm in the AGILE, I have always a scope in delivering on-time and anticipating to deadlines. I have a science background but I've always been up to date with evergreen technologies and methodologies.
+My name is Santiago, 34. While I'm in the AGILE, I have always a scope in delivering on-time and anticipating to deadlines. I have a science background but I've always (tried to) been up to date with evergreen technologies and methodologies.
 
 * 🌍 I'm actually from Madrid
 * 🖥️ See my portfolio at [My public github portfolio](https://github.com/anarcoiris?tab=repositories)
