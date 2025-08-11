@@ -19,7 +19,9 @@ My name is Santiago, 34. While I'm in the AGILE, I have always a scope in delive
   
 ### Find Me Also Here
 
-<p align="left"><a href=https://www.github.com/anarcoiris target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/github.svg width="45px" height="45px" /></a><a href=https://www.instagram.com/santiago.anarcoiris target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/instagram.svg width="45px" height="45px" /></a></p>
+<p align="left">  <a href="https://www.github.com/anarcoiris" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  </a><a href=https://www.instagram.com/santiago.anarcoiris target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/instagram.svg width="45px" height="45px" /></a></p>
 
 ![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=anarcoiris&show_icons=true&theme=dark)
 
