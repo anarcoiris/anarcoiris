@@ -81,7 +81,17 @@ My name is Santiago, 34. While I'm in the AGILE, I have always a scope in delive
 ### My Skills
 
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/python-color.svg alt="" width="45px" height="45px"/><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/c-color.svg alt="" width="45px" height="45px"/><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/cplusplus-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/javascript-color.svg alt="" width="45px" height="45px"/><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/php-color.svg alt="" width="45px" height="45px"/><a href="https://mongodb.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mongodb-color.svg alt="" width="45px" height="45px"/><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/postgresql-color.svg alt="" width="45px" height="45px"/><a href="https://firebase.google.com/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD0WAk2cXLSF1OL1qTEnmokX4CjpWAl_UiJElEZW4hlMvl16h4AWltEaApgxEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/sqlite-color.svg alt="" width="45px" height="45px"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mysql-color.svg alt="" width="45px" height="45px"/><a href="https://www.adobe.com" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/photoshop-color.svg alt="" width="45px" height="45px"/><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/vscode-color.svg alt="" width="45px" height="45px"/></p>
-  
+
+
+### My GPT usage in 2025:
+
+![Scorecard](./scorecard.svg)
+
+**Overall score:** 88.54
+
+> Normalización: z = (value - μ) / σ — score = clip(0,100, 50 + 15·z).  
+> Medias y sigmas usadas: ver `generate_scorecard.py`.
+
 ### Find Me Also Here
 
 <p align="left">  <a href="https://www.github.com/anarcoiris" target="_blank" rel="noreferrer">
