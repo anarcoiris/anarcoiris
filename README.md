@@ -1,127 +1,148 @@
-
-
-# Hi! 👋🏻 My name is...
-
-<!-- ======================== ANARCOIRIS ======================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anarcoiris/anarcoiris/main/anarcoiris.svg?v=2" alt="Santiago J. Espino" width="100%" />
-</p>
+<h1 align="center">Santiago Javier Espino Heredero</h1>
+<p align="center"><i>Physicist, tinkering with agents, orchestration, security and the sky.</i></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Transformo+ideas+en+sistemas%2C+Optimizo+infraestructura;Despliegues+que+escalan%2C+Cuanto+y+cuando+requieran;C%+C%2B%2B%2FOpenCV+no+motor;C%C3%B3digo+limpio+%C2%B7+Performance+%C2%B7+UX+dashboards">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Transformo+ideas+en+sistemas%2C+Optimizo+infraestructura;Despliegues+que+escalan%2C+Cuanto+y+cuando+requieran;C%+C%2B%2B%2FOpenCV+no+motor;C%C3%B3digo+limpio+%C2%B7+Performance+%C2%B7+UX+dashboards" alt="Typing animation" />
-  </picture>
+  <a href="https://github.com/Anarcoiris?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:anarcoiris@pm.me"><img src="https://img.shields.io/badge/E--mail-0E7490?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="https://www.instagram.com/santiago.anarcoiris"><img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/instagram.svg" width="28" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Anarcoiris?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>&nbsp;
-  <a href="mailto:anarcoiris@pm.me"><img src="https://img.shields.io/badge/E--mail-0E7490?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"/></a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmaroMiranda&style=flat-square&color=1F6FEB&label=Visitas+al+perfil" alt="Contador de visitas" />
-</p>
+## Honest note
 
-<br/>
+Most repositories try to convince you that their author knows all the answers.
 
+This profile is almost the opposite.
 
-<p><img src ="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/><img src ="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src ="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/><img src ="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/><img src ="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/><img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
+I enjoy building things that force me to admit I was wrong. You'll find plenty of experiments here: unfinished ideas, strange mathematical notes, AI agents, astronomy software, quantitative finance, weird visualizations, documentation that grows faster than the code. That's intentional.
 
-<details>
-  <summary>Ver mi clave pública PGP</summary>
+I care much more about understanding a problem than pretending I already understand it. If a project survives enough iterations, it usually becomes something worth keeping. If it doesn't, I leave it public anyway — failed ideas are often more valuable than polished demos.
 
-  
-  ```text
-  -----BEGIN PGP PUBLIC KEY BLOCK-----
+I don't optimize for GitHub stars. I optimize for learning curves. If something here helps someone else think differently, the repository already did its job.
 
-  mQINBGiaBkoBEADhd973V18wFE3M6TrIpi2jgxEFiX5/t8jLVhJJfLlD4PD1ZE5a
-  SubAErV7LYskVZGrKQ8d8BNI1h/YKX54Q2o4RYpGkCeKq1o8qW7hW7A86ODV9ugx
-  mIyqxYgrMUqYB3hvDuvAMcplSBiX4XrZdGodXrH+x6MRhCO6xmbxqPl8f9pMUuTn
-  Q1DtyKyB/551kIdv1nwTfDBw6j1SwD0twuGpct5fYps1hZcr9J4PwteNWyGvb9ii
-  gS79l5oy5NpkFaZ338uWBZAtZpxE2EoLT3aSeL7Edy60kIVWntjGfuixQE4j9P88
-  FszIJ31lorw+PvAgwI9QqLPzNzSWZixtYtZxqAnKPr1QBwEuwkiDOtenduKD78rz
-  0xZR8IuundTXUo9qlgWVqkLbgjwwbpCy1vjYXhsFXsjdzH6Mb3MwCoixwHqZ4BR9
-  5hWVfUwivkels/KjFVDfg/nOzeTIfauJ8s/IAWROFJ8N8SOjgtpbnkkj0Tupnqkn
-  jM6X6xaQz4/yIEcNjg11fsl6bqEsbj3mFWiP+pO53qU3McE3v341fcj2Q5vy/y1i
-  2Rt4GDx6HQMQXf1r+763hI3F3/QRsMwkLV130wU+4DFmJOliHA++bK4E4dAISNfv
-  WkXkf0nJBbJFJtXMXgH43chNI5YP9qKYdpfjNANZhflY6yalRa4Unkf+XwARAQAB
-  tDNTYW50aWFnbyBKYXZpZXIgRXNwaW5vIEhlcmVkZXJvIDxkdXJydTdpQGdtYWls
-  LmNvbT6JAlYEEwEIAEEWIQQWzj1ox/G6BWpc0xQuIZ7lOUFOOQUCaJoGSgIbAwUJ
-  BaSk1gULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAuIZ7lOUFOOZQ9D/Ys
-  zC/RWSQle2Cq8YzpZkiExrDrZQCEK5RreHAyyqh2ay1u/+MKqTg+rRC65sph+y1m
-  oaGv+qRgvQYCQJZqveApa/vidRHMUeqx8QWF7n2zlL0MdwvOYa3ckEPPMbe7Kyb2
-  gBogMENeq+Y6YtWZBl2WAjRzRcKNfzphu46S+9RM4rao5vfeOp7gVbMogIlhb1I+
-  a84WJa4YRugrF+R/PLcL+8RcGYNhrD5UOE8puUxlJRS49o7SeDw21G9tdOHx3V40
-  DaoAmeR9P4aVA10TdfyyBfJRdLKSxmhuw59rbRqKyR2vQo0j3CW3GfyoKVc+aLCp
-  JjSEEsf7uk1t8oZB8ZarhOZQexeh7aRHu7ZYBdFu4t4M5WmV9fRaRZ3XaIqGxDxl
-  ZjGtmo8SNVYJfm3BSwGoXYiagdf3hhlb5yHONWyCHrsKwocv+9C7fWj0wbxW4+dn
-  9vuZ1Tsrn/WOX9uv2ux7G3hiarrtxAjdibQt4CMLrrcDsEnBE/KwZkpcanVA5FTn
-  PenGvXBSFSTKHtMpoTSvtEqQM8NsmjP+o2eT2mqmawAdtRZIq6GmyTL8KgMjleuY
-  Hkt4mO5fFIPnJSOTG3pGPBhUCS09gvRDAEvA3Zl5sR210nVzZPpHwyNT/fa22Pcd
-  FZmzhC0quobZImcRYG1/GN3PKdI6+xJOJ2uSWMDYuQINBGiaBkoBEACyGdYRXyIH
-  tx4R9ui3h+CkoI91LhE68EJtFEDoOP1jfZ8ovsgEKy2IhQ6dslBmFgSO4awF0ycS
-  gJn5EQ0RRHxNrK2KrfP+q5J0VDHoFAlWrhGBGYPm1o49T+xLL0EDgW57ofjPDFwA
-  2F5TSHWHfiDkEbIXV8I5au4iFtzl5piXWA3PzTXxN8fwUDvZl2HuWFBWyex+PWne
-  NDGNzO6N3USoDnhMZdiIO7rIzFEVGt6uCiZRIJz1a7AbbtpcFtm4Hehtr+b4IEFV
-  o/pFYzQqGisFE7YeOb5wpBpKuikjtfotYm7iXj3THKJHnyGQY2r5pnspy2Y6Z4OU
-  J0NBs/XJM0k8jOS1MJeeBzh2U4koe+rq+O/yjJiedtuhfPyQl9m34In6CeTsHlkk
-  IMHKLE2lt6kGHiuwCH6Sb6gjIu4LPiiXk2WPOcgFrlfu8/z14686/Vud/ESY6LZS
-  OESAUlS7XdVbHxI2IhOC8YnNWgzPpQUQGv+5B3I7jjib7Ejq8MHrHs6eD6LJfdPS
-  4glASV5rDpjpG0/BDBRR6pCZzctMqN8RiAzwyN/9hK21tAO68zvmzZnbt0QjciwA
-  Q6lJAQ5LY2IuOl8TEuyQYeGnCKWe523Wth2VUwYJ5PuZEaM2rRbJ61IHj5McvMcP
-  0Fe5hm6nM9NZPnzAykXpZbQVKuf6PEnA8QARAQABiQI8BBgBCAAmFiEEFs49aMfx
-  ugVqXNMULiGe5TlBTjkFAmiaBkoCGwwFCQWkpNYACgkQLiGe5TlBTjm03w//cvIS
-  WQu3Xmf2I/U2gpuKj3NJDjNnNrJsBIA3N5RrQRjarQkYxBglsG8WLc/2NVMZHCmZ
-  6/9idpr9NNjn+60h9PSRhsDH07uT+xnaI18eXlEgMiHEUqUaOR7KXL5k2bVUsz7A
-  /gjPzyN1TjPJy1M1E2iBBwiAdZiNxdydvE4CQl4inOzDCVv8pv5xe7mJ/zzGWBs9
-  nn3dCyvI0fiavbP6hTDwIVKviqeSXW1Q7zglpwuS5EHJGgXZsmfqARF7/MZoAsOK
-  SC2NAPrkw5TkqgRJ4PaBTA6vfeFYVrN0QuaV4+sL1VCBoytZHet4u3Gv8SAIZtyz
-  73NQB1eB8FYRGPv3zoPIbrSxSS3cb/N9HuwFGrTOlkKmZ6w8TCr4ngWznsydJAzA
-  DmhT+5CLMZdRzX5cZSrqWKndN+UrfHDz6ZfUjwZzt18MEobf2X33RJtdXOA5/gVm
-  sqDV9EuXNrmHp69Yh4wkDeJTYuZYFgn9lsm2fmRf1dn3BWVmxmxPnzcCPOGeJM3Q
-  mny5vHpB7NW0GVdRnp0LzAmZaZyrR8vmYXbNNUAN/5W6lHyc2kzJc5w/IQkzrSsg
-  VvD1Ur1Yt1Ib4GgWi8GLLQLzhbi5LxHcIH45lBpK0M9uJWQbs35ei6yBjkvn8Y4k
-  lazpD/I4pBq/b1tzw5V9luuzckhKkeHGv33CA34=
-  =ve7N
-  -----END PGP PUBLIC KEY BLOCK-----
-  ```
-  
-</details>
+---
 
-## Data Scientist
+## At a glance
 
-My name is Santiago, 34. While I'm in the AGILE, I have always a scope in delivering on-time and anticipating to deadlines. I have a science background but I've always (tried to) been up to date with evergreen technologies and methodologies.
+- 🌍 Based in Madrid
+- 🔭 Bachelor in Physics, currently working through a Bachelor in Mathematics
+- 🚀 Doing astrophotography on the side — [gallery on AstroBin](https://app.astrobin.com/i/o4484q)
+- 🤝 Collaborating with a PhD researcher at JPL
+- ⚡ Long-running interest in cryptography
+- ✉️ Reachable at [anarcoiris@pm.me](mailto:anarcoiris@pm.me)
 
-* 🌍 I'm actually from Madrid
-* 🖥️ See my portfolio at [My public github portfolio](https://github.com/anarcoiris?tab=repositories)
-* ✉️ You can contact me at [durru7i@gmail.com](mailto:durru7i@gmail.com)
-* 🚀 I'm currently working on [Astrophotography](https://app.astrobin.com/i/o4484q)
-* 🧠 I'm Bachelor in Physics, learning Bachelor in Mathematics
-* 🤝 I'm collaborating w/ PHD at JPL
-* ⚡ I really like cryptography
+```
+.
+├── 🧠 Artificial Intelligence
+├── 📈 Quantitative Finance
+├── 🔭 Astronomy
+├── ⚙  Infrastructure & Security
+├── 📐 Mathematics
+├── 🧪 Experiments
+└── ☕ Things that looked impossible on a Friday afternoon
+```
 
-### My Skills
+---
 
-<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/python-color.svg alt="" width="45px" height="45px"/><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/c-color.svg alt="" width="45px" height="45px"/><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/cplusplus-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/javascript-color.svg alt="" width="45px" height="45px"/><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/php-color.svg alt="" width="45px" height="45px"/><a href="https://mongodb.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mongodb-color.svg alt="" width="45px" height="45px"/><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/postgresql-color.svg alt="" width="45px" height="45px"/><a href="https://firebase.google.com/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD0WAk2cXLSF1OL1qTEnmokX4CjpWAl_UiJElEZW4hlMvl16h4AWltEaApgxEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/sqlite-color.svg alt="" width="45px" height="45px"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mysql-color.svg alt="" width="45px" height="45px"/><a href="https://www.adobe.com" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/photoshop-color.svg alt="" width="45px" height="45px"/><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/vscode-color.svg alt="" width="45px" height="45px"/></p>
+## Current obsessions
 
+*(this list changes — that's the point)*
 
-### My GPT usage in 2025:
+- Autonomous LLM agents & orchestration (MCP)
+- Offensive/defensive security tooling for AI agents
+- Self-maintaining repositories — automation that audits its own code
+- Astro-imaging automation (smart scheduling, diffraction, focus masks)
+- LLM-assisted editorial pipelines (LaTeX generation & review)
+- Signal → symbol problems (audio to tabs, market data to structure)
 
-![Scorecard](./scorecard.svg)
+---
+
+## Philosophy
+
+> Software is not just code.
+> It's accumulated reasoning.
+> The code is merely the final artifact.
+
+There's a pattern that shows up in almost everything I build, from a Tri-Bahtinov focus mask to diffraction models, from LLM agents to financial models, even in topology questions I get stuck on for fun:
+
+```
+"What assumptions are we making?"
+        ↓
+"Can we generalize it?"
+        ↓
+"Can we derive the equation?"
+        ↓
+"Can we automate it?"
+        ↓
+"Can an AI discover this too?"
+```
+
+I enjoy finding the abstraction hiding behind practical problems more than I enjoy any single technology on this list.
+
+> Strong opinions. Weak attachment. Constant iteration.
+
+---
+
+## Curiosity dashboard
+
+This isn't an IQ test. It's a visualization pulled from hundreds of technical conversations, attempting to summarize how I usually work: deep iterations, frequent assumption-correction, abstraction, long-form reasoning. Take it as a fun metric, not as science.
+
+[![Scorecard](https://github.com/anarcoiris/anarcoiris/raw/main/scorecard.svg)](/anarcoiris/anarcoiris/blob/main/scorecard.svg)
 
 **Overall score:** 88.54
+> Normalization: z = (value − μ) / σ — score = clip(0, 100, 50 + 15·z). Means/sigmas in `generate_scorecard.py`.
 
-> Normalización: z = (value - μ) / σ — score = clip(0,100, 50 + 15·z).  
-> Medias y sigmas usadas: ver `generate_scorecard.py`.
+---
 
-### Find Me Also Here
+## Featured work
 
-<p align="left">  <a href="https://www.github.com/anarcoiris" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  </a><a href=https://www.instagram.com/santiago.anarcoiris target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/instagram.svg width="45px" height="45px" /></a></p>
+| Repo | What it does |
+|---|---|
+| [NINA-Smart-Scheduler](https://github.com/anarcoiris/NINA-Smart-Scheduler) | Lightweight MCP for smart scheduling & routing — skills-based, heartbeat-monitored, continuous |
+| [Editorial_Anarcoiris](https://github.com/anarcoiris/Editorial_Anarcoiris) | LaTeX editorial pipeline with image/LLM integration for generation, review, and mapping |
+| [MCP_Pentesting](https://github.com/anarcoiris/MCP_Pentesting) | MCP server orchestrating, normalizing and auditing offensive/defensive security ops for AI agents |
+| [repo-hygiene](https://github.com/anarcoiris/repo-hygiene) | Autonomous repo maintenance — periodic agent-driven audits, reports, and auto-filed issues |
+| [EasyTabs](https://github.com/anarcoiris/EasyTabs) | Splits master tracks into instruments, then transcribes into tabs |
+| [ShellArranger](https://github.com/anarcoiris/ShellArranger) | QoL shell organizer and macro builder |
 
-![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=anarcoiris&show_icons=true&theme=dark)
+---
 
-![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=anarcoiris&show_icons=true&theme=dark)
-- This Profile Created By <a href="https://profilegit.netlify.app/">GitProfile</a>
+## Stack
+
+<p>
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/python-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/c-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/cplusplus-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/javascript-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/php-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mongodb-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/postgresql-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/sqlite-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mysql-color.svg" width="36" />
+<img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/vscode-color.svg" width="36" />
+</p>
+
+---
+
+## Find me elsewhere
+
+[![GitHub](https://camo.githubusercontent.com/ea73699d9c71f9036ad258298a148d32c607cfee9deed4ffb6d3d3998a8077ca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667)](https://www.github.com/anarcoiris)
+[![Instagram](https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/instagram.svg)](https://www.instagram.com/santiago.anarcoiris)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anarcoiris&show_icons=true&theme=dark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=anarcoiris&show_icons=true&theme=dark)
+
+<details>
+<summary>PGP public key</summary>
+
+<!--
+  Paste your existing PGP key block here — it's long, so it's collapsed by default.
+  (Same block that was already in your README; no need to regenerate it.)
+-->
+
+</details>
+
+---
+
+<p align="center"><sub>Profile scaffolding via <a href="https://profilegit.netlify.app/">GitProfile</a></sub></p>
