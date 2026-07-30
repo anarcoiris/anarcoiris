@@ -1,6 +1,29 @@
 
 
-# Hi! 👋🏻 My name is Santiago Javier Espino Heredero
+# Hi! 👋🏻 My name is...
+
+<!-- ======================== ANARCOIRIS ======================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anarcoiris/anarcoiris/main/assets/anarcoiris.svg?v=2" alt="Santiago J. Espino" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+interfaces+que+encantam;React+no+navegador%2C+Flutter+no+bolso;E+quando+precisa%2C+C%2B%2B%2FOpenCV+no+motor;C%C3%B3digo+limpo+%C2%B7+Performance+%C2%B7+UX">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+interfaces+que+encantam;React+no+navegador%2C+Flutter+no+bolso;E+quando+precisa%2C+C%2B%2B%2FOpenCV+no+motor;C%C3%B3digo+limpo+%C2%B7+Performance+%C2%B7+UX" alt="Typing animation" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anarcoiris?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="mailto:anarcoiris@pm.me"><img src="https://img.shields.io/badge/E--mail-0E7490?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmaroMiranda&style=flat-square&color=1F6FEB&label=Visitas+ao+perfil" alt="Contador de visitas" />
+</p>
+
+<br/>
 
 
 <p><img src ="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/><img src ="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src ="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/><img src ="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/><img src ="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/><img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
