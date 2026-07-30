@@ -4,7 +4,7 @@
 
 <!-- ======================== ANARCOIRIS ======================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anarcoiris/anarcoiris/main/assets/anarcoiris.svg?v=2" alt="Santiago J. Espino" width="100%" />
+  <img src="https://raw.githubusercontent.com/anarcoiris/anarcoiris/main/anarcoiris.svg?v=2" alt="Santiago J. Espino" width="100%" />
 </p>
 
 <p align="center">
