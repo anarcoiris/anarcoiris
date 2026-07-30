@@ -9,8 +9,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Transformo+ideas+en+sistemas%2C+Optimizo+infraestructura+y+despliegues+que+escalan;Cuanto+y+cuando+requieran%2C+C%2B%2B%2FOpenCV+no+motor;C%C3%B3digo+limpio+%C2%B7+Performance+%C2%B7+UX+dashboards">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Transformo+ideas+en+sistemas%2C+Optimizo+infraestructura+y+despliegues+que+escalan;Cuanto+y+cuando+requieran%2C+C%2B%2B%2FOpenCV+no+motor;C%C3%B3digo+limpio+%C2%B7+Performance+%C2%B7+UX+dashboards" alt="Typing animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Transformo+ideas+en+sistemas%2COptimizo+infraestructura+y+despliegues+que+escalan;Cuanto+y+cuando+requieran%2C+C%2B%2B%2FOpenCV+no+motor;C%C3%B3digo+limpio+%C2%B7+Performance+%C2%B7+UX+dashboards">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Transformo+ideas+en+sistemas%2COptimizo+infraestructura+y+despliegues+que+escalan;Cuanto+y+cuando+requieran%2C+C%2B%2B%2FOpenCV+no+motor;C%C3%B3digo+limpio+%C2%B7+Performance+%C2%B7+UX+dashboards" alt="Typing animation" />
   </picture>
 </p>
 
