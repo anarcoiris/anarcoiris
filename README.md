@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmaroMiranda&style=flat-square&color=1F6FEB&label=Visitas+ao+perfil" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=AmaroMiranda&style=flat-square&color=1F6FEB&label=Visitas+al+perfil" alt="Contador de visitas" />
 </p>
 
 <br/>
